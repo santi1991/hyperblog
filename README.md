@@ -1,5 +1,5 @@
 # Hyperblog
->Hyperblog is a little project created in order to learn and practice the concepts learned from the course of Git and Github.
+>Hyperblog is a little project created in order to learn and practice the concepts presented in the course of Git and Github.
 >
 ## What did we practiced on the course?
 From **Git and Github** we learned:
